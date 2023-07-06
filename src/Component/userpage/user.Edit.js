@@ -69,8 +69,7 @@ export default function EditPage() {
 
           }
   }
-})
-
+});
   return (
     <div>
       <Navbar />
